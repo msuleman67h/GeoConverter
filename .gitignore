@@ -3,3 +3,6 @@ mrc_sep_02
 trinten_script_output
 venv
 *.csv
+geoconverter
+geoconverter.pub
+.idea
